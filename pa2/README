@@ -1,0 +1,9 @@
+//Juwon Kim, jkim419, pa2
+List.h -header file built in pa1
+List.c -implemtnation of List ADT with minor change
+BigInteger.h -header file for BigInteger ADT
+BigInteger.c -implementation file for BigInteger, has all of the computation work
+BigIntegerTest.c -test file for BigInteger
+ListTest.c -test file for List ADT
+Makefile -makefile for various executions such as linking for main program
+README
