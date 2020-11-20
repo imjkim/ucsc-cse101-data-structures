@@ -1,0 +1,9 @@
+//Juwon Kim, jkim419, pa4
+List.h -header file for List (recycled)
+List.c -implementation file for List
+Graph.h -header file for Graph
+Graph.c -implementation file for Graph
+GraphTest.c -test file for Graph (mainly used to understand finding scc)
+FindComponents.c -executing file for FindComponenets which takes in 2 file arguments
+Makefile -uses wildcards to make objects with source files
+README -this file
