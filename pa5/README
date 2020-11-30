@@ -1,0 +1,7 @@
+//Juwon Kim, jkim419, pa5
+README
+Makefile - executes binarys and builds object files	
+List.h - header file for List (provided)
+List.cpp - implementation file for List
+ListTest.cpp - test file
+Shuffle.cpp - main executing file which runs the program
