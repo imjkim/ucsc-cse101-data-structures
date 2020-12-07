@@ -1,0 +1,7 @@
+//Juwon Kim, jkim419, pa6
+Dictionary.h  - header file for Dictionary
+Dictionary.c - implementation file 
+DictionaryTest.c - test client with additional checks and tests
+Lex.c - main program that takes in input file and output file
+Makefile - builds object files with the sources
+README
