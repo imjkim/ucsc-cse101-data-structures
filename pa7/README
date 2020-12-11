@@ -1,0 +1,7 @@
+//Juwon Kim, jkim419, pa7
+Dictionary.h -header file for Dictionary (not touched)
+Dictionary.c -implementation file for the given header file
+DictionaryTest.c -test file to check the functions
+Order.c -main program
+Makefile -builds binaries as well as object files with sources
+README
