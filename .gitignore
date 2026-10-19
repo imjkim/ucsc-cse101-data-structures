@@ -1,0 +1,13 @@
+*.o
+Lex
+Arithmetic
+FindPath
+FindComponents
+Shuffle
+Order
+ListClient
+ListTest
+BigIntegerTest
+GraphTest
+GraphClient
+DictionaryTest
